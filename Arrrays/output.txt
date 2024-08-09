@@ -1,0 +1,17 @@
+
+	 Arrays  
+
+
+	 Enter size of arr: 4
+	 Enter Array elements: 1  6  4  9  
+
+Original  
+	 Array: [ 1 6 4 9 ]
+
+Reversed  
+	 Array: [ 9 4 6 1 ]
+
+Sorted  
+	 Array: [ 1 4 6 9 ]
+
+sum of arr elements : [1, 4, 6, 9] is : 20

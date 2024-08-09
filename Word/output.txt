@@ -1,0 +1,6 @@
+
+	 Enter the word: 
+
+	 Word : defer
+
+	 defer is a keyword

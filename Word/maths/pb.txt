@@ -1,0 +1,20 @@
+problem Statement (word is key)
+
+One programming language has the following keywords that cannot be used as identifiers:
+
+break,case,continue,default,defer,else,for,func,goto,if,mao,range,return ,struct,type,var
+
+write a program to find if the given word is a keyword or not 
+Test Cases
+
+case -1 
+
+        input - defer 
+        Expected Output - defer is a keyword 
+
+case -2
+
+        input - While 
+        Expected Output - while is not a keyword
+
+        

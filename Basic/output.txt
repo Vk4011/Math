@@ -1,0 +1,6 @@
+
+	 Practise 
+
+
+	 Number : 
+	 java n :  5
